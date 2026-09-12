@@ -4,6 +4,11 @@ An [Obsidian](https://obsidian.md) plugin that shows a month calendar with Japan
 
 [日本語の説明はこちら](#日本語)
 
+<p align="center">
+  <img src="docs/screenshot-light.png" width="380" alt="Japanese Holiday Calendar in the right sidebar (light theme)">
+  <img src="docs/screenshot-dark.png" width="380" alt="Japanese Holiday Calendar in the right sidebar (dark theme)">
+</p>
+
 ## Features
 
 - Month view in the right sidebar with Japanese public holidays highlighted in red, including substitute holidays (振替休日) and citizens' holidays (国民の休日)
