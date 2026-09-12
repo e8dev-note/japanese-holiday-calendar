@@ -1,6 +1,6 @@
 {
 	"name": "japanese-holiday-calendar",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Obsidian plugin: sidebar calendar with Japanese public holidays; select a date to open its daily note.",
 	"main": "main.js",
 	"type": "module",

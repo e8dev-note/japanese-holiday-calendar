@@ -1,7 +1,7 @@
 {
 	"id": "japanese-holiday-calendar",
 	"name": "Japanese Holiday Calendar",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.13.0",
 	"description": "Sidebar calendar that shows Japanese public holidays and the Japanese era. Select a date to open its daily note.",
 	"author": "e8dev-note",

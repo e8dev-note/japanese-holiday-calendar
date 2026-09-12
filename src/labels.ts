@@ -1,4 +1,4 @@
-import { moment } from 'obsidian';
+import { moment } from './moment';
 
 export interface Labels {
 	viewTitle: string;
